@@ -13,9 +13,9 @@ local altDown = false
 local notificationsEnabled = true
 local shiftLockWasActive = false
 
-local fov = 100
-local lockStrength = 0.60
-local maxLockDistance = 1000
+local fov = 90
+local lockStrength = 0.70
+local maxLockDistance = 50
 
 local highlights = {}
 
